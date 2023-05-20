@@ -1,0 +1,2 @@
+# voicevox_fat_resource
+VOICEVOX用のリソースファイルのうちファイル容量が特に大きいもの置き場
